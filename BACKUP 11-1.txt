@@ -1,0 +1,46 @@
+linux ...>open source o.s (cli )...>commands ...>gui(icons =clear)
+.....>o.s(s/w=set of instructions =run any machines)
+...>language of unserstading b/w user & machines (h/w)...>user interface 
+...>open source(o.s is free, download , free to edit (source code ),ex:linux) ,
+....> closed environment o.s (not free , it is licensed version , not free fr doenloding /
+editing , source code is not availble , ex:windows client (10 , 11 , 8 , 8.1)...+server o.s )
+
+>>>>>>o.s is free..>open source=1991 (linux was made as free =linus torvalds)??
+>>>>>torvlads..>studing ...>unix project..>devlprs approched ..>but rejected ..>this made 
+to open and o.s fr evryone freely .
+
+>unix is mother of linux (unix platfrm )
+>flavors /distrubitins of linux (rhel , fedora , kali linux , centos , ubuntu , mandriva )
+
+>client o.s & server o.s (rhel=red hat enterprise linux)=server
+>client(accept services ex:pc
+>server(provides sesrvices ...>web browsing service , email services , fax & print service 
+remote access service (rdp ,telnet),snmp.............(www.schools9.com===sslc
+ results=server)
+
+>>>>booting (loading an o.s to pc)....>off---booting proces(post(POWER ON SELF TEST(S/W -H/W IS WORKING FINE /NOT
+ , bios (BASIC I/P -O/P SYSTEM (INTERNAL DRIVERS , S/W IS UPDSATED, boot strap loader(C DRIVE ..>LOADED=ON)---on
+(if any errors =present =shown ???
+>>>>1 st program to run on pc =pc =on
+....>dual booting(PC-1 >1 O.S ) , single booting (1-PC (ONLY ONE O.S)...>
+.......>LINUX ...>WINDOWS-11
+>>>>>VIRTUALISATION (TECHNOLOGY)....>CREATING LOGICAL COMPUTERS ON PHYSICAL P.C)
+>>>>>>>>>>>VT-X TECHNOLOGY
+>>>>>>>>>>>>>WINDOWS (HYPERVISOR)...
+>>>>>>>>>>>>>MANUALY ENABLE ...>
+>VM (VIRTUAL MACHINES)...>IT>>>>>>REDUCE COST , INFRA SIZE...> PRODUCTION FASTER....>
+>>>>>>PHYSICL...>
+
+>>>>>>>>>>BASED ON RESOURCES ON PC....>
+>>>>>>RAM=8GB , H/D =500 -1TB , )
+.......>VM 1=2GB ,H/D=200)
+>BAREMETAL=PC HAS NO OPERATNG S/M )
+
+...>
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
